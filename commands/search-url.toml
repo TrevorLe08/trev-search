@@ -1,0 +1,2 @@
+description = "Find credible links to read, no generated answer"
+prompt = "Use the search-url skill for this request. Read its SKILL.md first and follow it. Request: {{args}}"

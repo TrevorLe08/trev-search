@@ -1,0 +1,2 @@
+description = "Fact-check supplied content: links, numbers, quotes"
+prompt = "Use the search-check-fast skill for this request. Read its SKILL.md first and follow it. Request: {{args}}"

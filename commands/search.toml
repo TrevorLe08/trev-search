@@ -1,0 +1,2 @@
+description = "Concise sourced answer on any topic"
+prompt = "Use the search skill for this request. Read its SKILL.md first and follow it. Request: {{args}}"

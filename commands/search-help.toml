@@ -1,0 +1,2 @@
+description = "How to use trev-search: modes, examples, which command fits"
+prompt = "Use the search-help skill for this request. Read its SKILL.md first and follow it. Request: {{args}}"

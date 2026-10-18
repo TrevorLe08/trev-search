@@ -1,0 +1,22 @@
+{
+  "name": "trev-search",
+  "displayName": "Trev Search",
+  "version": "1.0.0",
+  "description": "Web search with inspected, visible sources: concise answers, link finding, fast and deep fact-checking of user-supplied content, and multi-angle deep search.",
+  "logo": "https://res.cloudinary.com/rnusmvyi/image/upload/v1792293772/logo-trev-search.png",
+  "author": {
+    "name": "Trevor Le",
+    "url": "https://github.com/TrevorLe08"
+  },
+  "repository": "https://github.com/TrevorLe08/trev-search",
+  "license": "MIT",
+  "keywords": [
+    "search",
+    "web-search",
+    "fact-check",
+    "deep-search",
+    "sources",
+    "verification",
+    "research"
+  ]
+}

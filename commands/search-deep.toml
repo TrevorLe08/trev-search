@@ -1,0 +1,2 @@
+description = "Deep multi-angle search; asks source count, style and illustration images first"
+prompt = "Use the search-deep skill for this request. Read its SKILL.md first and follow it. Request: {{args}}"

@@ -1,0 +1,2 @@
+description = "Thorough fact-check of a long text, claim by claim"
+prompt = "Use the search-check-deep skill for this request. Read its SKILL.md first and follow it. Request: {{args}}"
